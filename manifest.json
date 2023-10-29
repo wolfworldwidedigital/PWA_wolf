@@ -1,7 +1,7 @@
 {
-    "name": "Tabbed Web app",
-    "short_name": "TWA",
-    "description": "The awesome tabbed web app!",
+    "name": "Wolf Web app",
+    "short_name": "WOLF",
+    "description": "The awesome tabbed wolf app!",
     "icons": [
         {
             "src": "favicon.png",
